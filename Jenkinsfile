@@ -42,4 +42,5 @@ sh 'java -jar target/MyMavenSeleniumApp03-1.0-SNAPSHOT.jar'        }
             echo 'Build failed!'
         }
     }
+    }
 }
